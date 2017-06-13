@@ -1,6 +1,6 @@
- <!-- FOOTER -->	
-<div id="footer">
-	<ul class="foot">
+ <!-- FOOTER -->
+<div id="footer" class="col-md-12">
+	<ul class="foot" class="col-md-12">
 		<li>
 			<ul>
 				<li>
@@ -9,8 +9,8 @@
 				<li><a href="./lebanon-laws.php">Lebanon Legislation</a></li>
 				<li><a href="./libya-laws.php">Libya Legislation</a></li>
 				<li><a href="./egypt-laws.php">Egypt Legislation</a></li>
-				<li><a href="./syria-laws.php">Syria Legislation</a></li> 
-                <li><a href="./yemen-laws.php">Yemen Legislation</a></li> 
+				<li><a href="./syria-laws.php">Syria Legislation</a></li>
+                <li><a href="./yemen-laws.php">Yemen Legislation</a></li>
                 <li><a href="./jordan-laws.php">Jordan Legislation</a></li>
 				<li><a href="./iraq-laws.php">Iraq Legislation</a></li>
 			</ul>
@@ -25,8 +25,8 @@
 				<li><a href="./oman-laws.php">Oman Legislation</a></li>
 				<li><a href="./qatar-laws.php">Qatar Legislation</a></li>
                 <li><a href="./saudi-arabia-laws.php">Saudi Arabia Legislation</a></li>
-                <li><a href="./uae-laws.php">UAE Legislation</a></li>	
-				<li><a href="./uae-penal-code.php">UAE Penal Code</a></li>							
+                <li><a href="./uae-laws.php">UAE Legislation</a></li>
+				<li><a href="./uae-penal-code.php">UAE Penal Code</a></li>
 			</ul>
 		</li>
 		<li>
@@ -66,18 +66,18 @@
 			</ul>
 		</li>
 	</ul>
-	<div class="foot_box">        
+	<div class="foot_box">
 		<ul>
 			<li><a href="laws-of-uae.php">UAE Law</a>|</li>
 			<li><a href="uae-money-laundring-laws.php">UAE Money Laundring Laws</a>|</li>
 			<li><a href="translation-on-demand-services.php">English to arabic translation</a>|</li>
 			<li><a href="translation-on-demand-services.php">Arabic to english translation</a>|</li>
 			<li><a href="about-us.php">About Us</a>|</li>
-			<li><a href="contact.php">Contact Us</a>|</li>	   
-			<li><a href="clt-terms-conditions.php">Terms and Conditions</a>|</li>   
+			<li><a href="contact.php">Contact Us</a>|</li>
+			<li><a href="clt-terms-conditions.php">Terms and Conditions</a>|</li>
 			<li><a href="privacy-policy.php">Privacy Policy</a>|</li>
-			</ul>     
-	</div> 
+			</ul>
+	</div>
 </div>
 
 <!-- END FOOTER  -->
